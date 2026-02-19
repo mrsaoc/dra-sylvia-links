@@ -64,7 +64,6 @@ export default function App() {
                         key={index}
                         href={link.url}
                         target="_blank"
-                        target="_blank"
                         rel="noopener noreferrer"
                         className={`
               flex items-center p-4 rounded-xl shadow-md transition-all duration-300
