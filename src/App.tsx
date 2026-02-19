@@ -16,8 +16,8 @@ const links: LinkItem[] = [
         icon: <MessageCircle className="w-5 h-5" />,
     },
     {
-        title: 'Instagram Oficial (@sylbravo)',
-        url: 'https://instagram.com/sylbravo',
+        title: 'Instagram Oficial (@sylviabravofisio)',
+        url: 'https://instagram.com/sylviabravofisio',
         icon: <Instagram className="w-5 h-5" />,
     }
 ];
@@ -63,6 +63,7 @@ export default function App() {
                     <a
                         key={index}
                         href={link.url}
+                        target="_blank"
                         target="_blank"
                         rel="noopener noreferrer"
                         className={`
