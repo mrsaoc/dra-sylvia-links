@@ -50,7 +50,7 @@ export default function App() {
                         Dra. Sylvia
                     </h1>
                     <p className="text-emerald-100 font-medium mt-1 text-lg">
-                        Médica Especialista
+                        Fisioterapeuta Especialista
                     </p>
                     {/* Linha divisória elegante */}
                     <div className="w-12 h-0.5 bg-amber-400 mx-auto mt-4 opacity-80"></div>
@@ -88,7 +88,7 @@ export default function App() {
             {/* --- RODAPÉ SOCIAL --- */}
             <footer className="mt-16 flex flex-col items-center space-y-6 z-10">
                 <div className="flex space-x-6">
-                    <a href="https://www.instagram.com/sylviabravofisio" target="_blank" rel="noopener noreferrer" className="text-emerald-300 hover:text-amber-300 transition-colors transform hover:scale-110">
+                    <a href="https://instagram.com/sylviabravofisio" target="_blank" rel="noopener noreferrer" className="text-emerald-300 hover:text-amber-300 transition-colors transform hover:scale-110">
                         <Instagram className="w-6 h-6" />
                     </a>
                     <a href="#" className="text-emerald-300 hover:text-amber-300 transition-colors transform hover:scale-110">
